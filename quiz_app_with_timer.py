@@ -80,3 +80,58 @@ def run_quiz():
 # Step 7: Run the quiz
 if __name__ == "__main__":
     run_quiz()
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Output 
+
+Welcome to the Quiz App!
+Answer the following questions:
+
+Question 1: What is the capital of France?
+1. Paris
+2. Rome
+3. Berlin
+4. Madrid
+Enter the option number (1-4): 1
+Correct!
+
+Question 2: Which planet is known as the Red Planet?
+1. Mars
+2. Jupiter
+3. Saturn
+4. Venus
+Enter the option number (1-4): 1
+Correct!
+
+Question 3: What is 5 + 3?
+1. 5
+2. 8
+3. 10
+4. 12
+Enter the option number (1-4): 
+Invalid choice. Please select a number between 1 and 4.
+Time's up! Moving to the next question.
+
+Question 4: Which programming language is known as the language of AI?
+1. Python
+2. Java
+3. C++
+4. Ruby
+Enter the option number (1-4): e
+Invalid choice. Please select a number between 1 and 4.
+Enter the option number (1-4): 1
+Correct!
+
+Question 5: What is the largest mammal in the world?
+1. Elephant
+2. Blue Whale
+3. Shark
+4. Giraffe
+Enter the option number (1-4): w
+Invalid choice. Please select a number between 1 and 4.
+Enter the option number (1-4): 
+Invalid choice. Please select a number between 1 and 4.
+Time's up! Moving to the next question.
+
+Quiz Over! You scored 3/5.
